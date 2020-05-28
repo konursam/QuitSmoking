@@ -1,0 +1,13 @@
+title: My Health Log
+author: Konuralp Bayrak, Rachel Magee
+abstract: Most people today have busy lifestyles that revolve around their careers. These 
+  habits brought on by the development of modern industry leave many susceptible to poor health 
+  practices such as; poor diet, inadequate exercise, inadequate sleep, and cigarette 
+  consumption. Our goal with My Health Log is to provide a simple tracking user interface for 
+  everyday people to input their health information (height, weight, blood pressure, etc.) which 
+  is stored on a per user basis. The data is stored and displayed on a secondary display page. 
+  Along with a table display of the input data, there are also 3 chart figures showing the change 
+  in each parameter over each entry. There are also messages displayed based on your health 
+  progress. These customized messages are also hyperlinks to information on the health parameter 
+  being tracked. The aim is to help people track their health and to provide information on how 
+  to do so.
